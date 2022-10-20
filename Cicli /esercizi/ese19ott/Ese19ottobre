@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int main() {
+int a,tot,media,c;
+media=0:
+a=0;
+c=0:
+tot=0:
+while(a!=1)
+{
+C++:
+cout<<"Inserire l'eta: "<<endl;
+cin>>a;
+tot=tot+a;
+}
+tot=tot-a;
+C--;
+media=tot/c;
+cout‹‹"L'eta' media e':\t"<<media<<endl:
+return 0:
+}
+
+
